@@ -113,208 +113,208 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "AppAuth",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/AppAuth.xcframework.zip",
-            checksum: "1a4ec93389b4e73bda255a868f191362f666aa7c850e93ccbb1adc631c44ccb6"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/AppAuth.xcframework.zip",
+            checksum: "b111884c76f577603cbf2914ec95d244a236208d6184b3e94ff5c04c9c5783b2"
         ),
         .binaryTarget(
             name: "AppCheckCore",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/AppCheckCore.xcframework.zip",
-            checksum: "54bbd3ea1cbf9777b5ca96a1583fd4c3aa8a354552171730c2e221d01974f17b"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/AppCheckCore.xcframework.zip",
+            checksum: "fd652f32d407b2ae0b6de88f285ada7980e2baee6cd41e647f6c64298837a518"
         ),
         .binaryTarget(
             name: "AppsFlyerLib",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/AppsFlyerLib.xcframework.zip",
-            checksum: "9bf21fb6eedd3035d2d1aacbaa6d82d751bd2175dd24d6e50dc76102a49e5143"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/AppsFlyerLib.xcframework.zip",
+            checksum: "f904cbe52739f19d70ade284a46502503950adb0bd34f157b0b6a45fb21233c5"
         ),
         .binaryTarget(
             name: "FBAEMKit",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FBAEMKit.xcframework.zip",
-            checksum: "ef51d678ae288e63e62160ea559db633c3b311dbee9a1c149224e0da7cbefbd8"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FBAEMKit.xcframework.zip",
+            checksum: "4f3c9b77f9144eeaff89388608390754a599588127b13c286e401773f921ee42"
         ),
         .binaryTarget(
             name: "FBLPromises",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FBLPromises.xcframework.zip",
-            checksum: "f3f935c8207e97a20dbab0c27c0d967feb5519401edee948e9d3c4d38c90461a"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FBLPromises.xcframework.zip",
+            checksum: "83cc8e313cf1233cc657be7a09fe744f0416d7e28c19ab6644a0301a38616e60"
         ),
         .binaryTarget(
             name: "FBSDKCoreKit_Basics",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FBSDKCoreKit_Basics.xcframework.zip",
-            checksum: "d6c1695601f8ffd44e5dca7eb9bf1168a88af25a46d7fff7cdbd7c6c87bdc2c3"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FBSDKCoreKit_Basics.xcframework.zip",
+            checksum: "eb0f4796d6ae9bbc4fb1824055fbef0c8e85496dc4812fb479f872d78a49c792"
         ),
         .binaryTarget(
             name: "FBSDKCoreKit",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FBSDKCoreKit.xcframework.zip",
-            checksum: "d136f52443ca38f1d3143a2c4fe1dc2eeedd2db21e356044e830a8990dfd72d9"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FBSDKCoreKit.xcframework.zip",
+            checksum: "af19ae85bf33fabbcd97c862df17e38b63d32371eec85d47f3916557885fe2a7"
         ),
         .binaryTarget(
             name: "FBSDKLoginKit",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FBSDKLoginKit.xcframework.zip",
-            checksum: "81630454b04ae6a91d1f33962af9ceefb4bd88b827c388c3edd4a8c3c2fb388a"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FBSDKLoginKit.xcframework.zip",
+            checksum: "4a73784221766d2918715c37e085f0786edcb8969f7e6062c920a93bc93bf496"
         ),
         .binaryTarget(
             name: "FBSDKShareKit",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FBSDKShareKit.xcframework.zip",
-            checksum: "a22a151f461d9c0680f567f9d1e5f2deed5f8aa7e065121465e20a992caf169d"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FBSDKShareKit.xcframework.zip",
+            checksum: "c7cd0cdb062760bcf28e3006fffb5267c1d84b1a2f4f26f3c0e803f2950be5bf"
         ),
         .binaryTarget(
             name: "FirebaseAnalytics",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FirebaseAnalytics.xcframework.zip",
-            checksum: "0f0c37f9071a8d85df3f2a03eae2803d08b146f90f316755934e37d72edc31bd"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FirebaseAnalytics.xcframework.zip",
+            checksum: "66e65b6fe9ef28a5ae78f5d5a7bd9768cb504e03b340f3da037aeb921a565d96"
         ),
         .binaryTarget(
             name: "FirebaseCore",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FirebaseCore.xcframework.zip",
-            checksum: "8178ec2d55ed580b91947fd9c25464dbb2d189ce58592c520712c6050ebce6c8"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FirebaseCore.xcframework.zip",
+            checksum: "cb113cf594355e3b35b3dd7ba99a5036a38b84375156a34327c45fcb5a56d179"
         ),
         .binaryTarget(
             name: "FirebaseCoreInternal",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FirebaseCoreInternal.xcframework.zip",
-            checksum: "c44e8271b107b40c7b8a24ed7e6431ee9c73c01657fdb0a54cb8169c611b436d"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FirebaseCoreInternal.xcframework.zip",
+            checksum: "cf6e61f03e54c5a7747c3b6291ec04d64a0ace5988b2a7ff315f6c5744e62216"
         ),
         .binaryTarget(
             name: "FirebaseInstallations",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FirebaseInstallations.xcframework.zip",
-            checksum: "f923822ef2fabe098a9c64d44eefe99f1ab9abc71fa209461c04beb23e939dad"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FirebaseInstallations.xcframework.zip",
+            checksum: "a747824fa9633e04e237c0e7ce9ecf6bf215e537b8f8866d741ade3c1b7943c8"
         ),
         .binaryTarget(
             name: "FirebaseMessaging",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FirebaseMessaging.xcframework.zip",
-            checksum: "e86bb3bcce3a43a9853f846b5694a7096d4a3f6257052254158774080254c7d0"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FirebaseMessaging.xcframework.zip",
+            checksum: "39c53302c800159e61b21ee8569c6fbd9fbe816b673fc0275b6cbdc7e6845ce8"
         ),
         .binaryTarget(
             name: "FMDB",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/FMDB.xcframework.zip",
-            checksum: "f8a4f4ae70cb4d4abcde54cd883a52caa118b419fa5c04f0d749a7c22e9272ba"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/FMDB.xcframework.zip",
+            checksum: "5721743485eb3e3b22d451fac33efc39e8fe75f26839fae855939d5e888ce263"
         ),
         .binaryTarget(
             name: "GoogleAdsOnDeviceConversion",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/GoogleAdsOnDeviceConversion.xcframework.zip",
-            checksum: "c5f77866188e91f91aec49285379a9cb51f0fe1346529b2ee1267ea1757ee01d"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/GoogleAdsOnDeviceConversion.xcframework.zip",
+            checksum: "5d8261591a7fed6bc2c7b84d3729a5f99f49cd160026e5c843e8fc73431c6299"
         ),
         .binaryTarget(
             name: "GoogleAppMeasurement",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/GoogleAppMeasurement.xcframework.zip",
-            checksum: "38f1025687a3f048201c7ba532d637f5be63e9ba3d10984c2a132ea55f24e4f4"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/GoogleAppMeasurement.xcframework.zip",
+            checksum: "2b88c0582fa52583868acca2ee0e3019e1b423bcbac00ddbe1131297148f15da"
         ),
         .binaryTarget(
             name: "GoogleAppMeasurementIdentitySupport",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/GoogleAppMeasurementIdentitySupport.xcframework.zip",
-            checksum: "06d93fa7d26ba5910c646e0d361d08554ae57281245777732d1f927e0e4835d7"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/GoogleAppMeasurementIdentitySupport.xcframework.zip",
+            checksum: "4cb2c5dab79534e6cd8d6a2f3018dbedf03133cfe3d53a80209262fefba6f28d"
         ),
         .binaryTarget(
             name: "GoogleDataTransport",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/GoogleDataTransport.xcframework.zip",
-            checksum: "3cca1011425c06928660cbfbd4921a8e3548834a2cb056f509540b605967ad39"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/GoogleDataTransport.xcframework.zip",
+            checksum: "32b70b11db0be781f0a99c11be97600bc48d47b34427ceb16188e7b1ee8b9589"
         ),
         .binaryTarget(
             name: "GoogleSignIn",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/GoogleSignIn.xcframework.zip",
-            checksum: "854a3d5b48388204b73b25ee11e1b8bb18b4e19c55bd81cac6d55791be159a54"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/GoogleSignIn.xcframework.zip",
+            checksum: "d21035e34554bc7be1426f8c0b18f56236c53c6c011deaa4a0befea45475a95a"
         ),
         .binaryTarget(
             name: "GoogleUtilities",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/GoogleUtilities.xcframework.zip",
-            checksum: "5fe46989d79b35f8b873c55c286b56e65b7720aea2c1127103a0197c42b44442"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/GoogleUtilities.xcframework.zip",
+            checksum: "ed84df0cc09ff850291e90728ce44d24aad399035987254479594aa52d337874"
         ),
         .binaryTarget(
             name: "GTMAppAuth",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/GTMAppAuth.xcframework.zip",
-            checksum: "72e86f7e7e88a032ed4c04884746312e53317e3a11f2c1b58d597d34307cc29c"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/GTMAppAuth.xcframework.zip",
+            checksum: "cc832f5e203b3e3c8228e3e961e9be08b68e68209b2912ab6a75e162b0560783"
         ),
         .binaryTarget(
             name: "GTMSessionFetcher",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/GTMSessionFetcher.xcframework.zip",
-            checksum: "8453ab62e9f0a917dd7a06ca34a92c75449a7fd3e02a62a2b404f815ed4886fa"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/GTMSessionFetcher.xcframework.zip",
+            checksum: "6bc4f05aae5c2296d700099fb4679112cf8866fa74602f9232c8fbb4d463313b"
         ),
         .binaryTarget(
             name: "KakaoCommon",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/KakaoCommon.xcframework.zip",
-            checksum: "0ab71d1bac6961f4cb6a629da304cc627402c4c4aff5b0af60ed453935e52a69"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/KakaoCommon.xcframework.zip",
+            checksum: "824617b6d58bbd922dc67d5589b81ae05f0389a3e0568be6637a39797a26551a"
         ),
         .binaryTarget(
             name: "KakaoLink",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/KakaoLink.xcframework.zip",
-            checksum: "1dc56e35ecac2391c5f4864b3463925f8ed474ccc9efcc6ba3e8da1ae351c0bd"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/KakaoLink.xcframework.zip",
+            checksum: "00927ec56297213d1f3b3eaf0c807672e012eacb4926526a4f91d4601129633e"
         ),
         .binaryTarget(
             name: "KakaoMessageTemplate",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/KakaoMessageTemplate.xcframework.zip",
-            checksum: "5d777135d08bfb75649a2ef87827d5d6ae540a2cd60cafa2a55d4950c90a7fdd"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/KakaoMessageTemplate.xcframework.zip",
+            checksum: "3d0218ef4b734faf356a42f93e7ca6468ae75f4a9106711c906f9f1a6ebf2691"
         ),
         .binaryTarget(
             name: "KakaoOpenSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/KakaoOpenSDK.xcframework.zip",
-            checksum: "5ebbb9ebf067d3a142946172535ac758c7323c5323146597904f3dd90954152e"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/KakaoOpenSDK.xcframework.zip",
+            checksum: "d1af462ea840842a44a1af8114fff1fa924e5f10900a2e3e02d1e8972e3a8e86"
         ),
         .binaryTarget(
             name: "Masonry",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/Masonry.xcframework.zip",
-            checksum: "90a6b4cc2e04a7e0d684eacf3878977136a964771daaa4b181a16a01327639ef"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/Masonry.xcframework.zip",
+            checksum: "ede1131d2302031c137001b84d6e38f7b2ba58aa1d6210babbd910f5d0119bad"
         ),
         .binaryTarget(
             name: "nanopb",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/nanopb.xcframework.zip",
-            checksum: "9a6a29bd0eb98f05894531facbb8abe11e5b8f88905a811d82858c68a958bd23"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/nanopb.xcframework.zip",
+            checksum: "ff7bc797d6aee05511117aa4fde62ede0888122fbbf30cf8b93fe1b3537f5bdc"
         ),
         .binaryTarget(
             name: "NaverThirdPartyLogin",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/NaverThirdPartyLogin.xcframework.zip",
-            checksum: "28a3eac5ae10779f9edf7a290d159d7c9a4c7e2b11e487857fb4281c0e2a5bae"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/NaverThirdPartyLogin.xcframework.zip",
+            checksum: "f5081db1cb39ea3cfe93380cb390a5695cf1dfbcf8c2b37a26e91cc463793b47"
         ),
         .binaryTarget(
             name: "onesdk_ios_ubee",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/onesdk_ios_ubee.xcframework.zip",
-            checksum: "31a0cd5547ef9fe46aee3153e86f9124c78278eb66604cae03513bb932bd6eb7"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/onesdk_ios_ubee.xcframework.zip",
+            checksum: "857fbcdd02fe8c1b278ebae162358f841a11c979df00496de677e07658343634"
         ),
         .binaryTarget(
             name: "onesdk_ios_ubkakao",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/onesdk_ios_ubkakao.xcframework.zip",
-            checksum: "e7a3b8ec694c6df43da22217473bf0dfe4a0b03464f082d438952b0653c9e0d3"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/onesdk_ios_ubkakao.xcframework.zip",
+            checksum: "f6407c1c64093293fc1bb1a14829664cdecc9bf34f99fff35c245566e5d82e8d"
         ),
         .binaryTarget(
             name: "onesdk_ios_ubwechat",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/onesdk_ios_ubwechat.xcframework.zip",
-            checksum: "52ecad502469b975c22f10ecbd88b2f067e89e45c7274b7413693d51c329e0d3"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/onesdk_ios_ubwechat.xcframework.zip",
+            checksum: "948bb71a3115e617d1f997d373328e972bdd3aa1489173631d4e82705ad8628b"
         ),
         .binaryTarget(
             name: "OnesdkBaitianFramework",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/OnesdkBaitianFramework.xcframework.zip",
-            checksum: "3b33db2495fa3b170a8f00a38ac6bfe1092a8c4da03ed9410d1f10db3b894d79"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/OnesdkBaitianFramework.xcframework.zip",
+            checksum: "8071c90a86571e20b248e176e321101e5447f5eaeae99eea53558d7915bdc3a1"
         ),
         .binaryTarget(
             name: "OnesdkFireBaseCloudMessage",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/OnesdkFireBaseCloudMessage.xcframework.zip",
-            checksum: "acddfbaa5d6e120e933022c589c5b49e304bb322c80f3ed72fd4fc003963eb0b"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/OnesdkFireBaseCloudMessage.xcframework.zip",
+            checksum: "5253151149062aa91e2ad7749938d226b6f98e4349bae03138abd2b5fac3d396"
         ),
         .binaryTarget(
             name: "OneSDKIAPHelperFramework",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/OneSDKIAPHelperFramework.xcframework.zip",
-            checksum: "b4b78189ebd40faa09f29bbcf6f80a13c73c60f7709092e3cc55fefb91cdcc92"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/OneSDKIAPHelperFramework.xcframework.zip",
+            checksum: "629eda485c95a16d8a562d4a8e9cc77d33ecbd8c0e5de5b4b9fd62fdf0c0acc4"
         ),
         .binaryTarget(
             name: "OnesdkSeacommon",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/OnesdkSeacommon.xcframework.zip",
-            checksum: "716f2169012c578b9f45421a95553c037243b4bbb336594d5891005d8e89af90"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/OnesdkSeacommon.xcframework.zip",
+            checksum: "0f9708b24c6b83d3b96b6bf70b5f3ec7259f7d68b27c018ea11807cb4897f011"
         ),
         .binaryTarget(
             name: "OtherPartySDKFramework",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/OtherPartySDKFramework.xcframework.zip",
-            checksum: "6c82337fdb6465e8b241cc87dfc2395aa330135414ce912f71dce3c0201f2755"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/OtherPartySDKFramework.xcframework.zip",
+            checksum: "40e7a372b43274ec36d9559a52454f088992b26402eb03a97e319ecf5189e159"
         ),
         .binaryTarget(
             name: "Promises",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/Promises.xcframework.zip",
-            checksum: "84beba1de5cc55adb46bfd24ab5cbb4c70a6fc492ed38927f9523e1dff51a36e"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/Promises.xcframework.zip",
+            checksum: "d64b1bb3920fa0fc45a243059a85e51f06c4d287185d72d2a50eea0cede99afc"
         ),
         .binaryTarget(
             name: "RecaptchaInterop",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/RecaptchaInterop.xcframework.zip",
-            checksum: "b456b3132fc67f9f5bdf1ed44b944254f978f26f573ecc44f05b4587e6f62cbf"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/RecaptchaInterop.xcframework.zip",
+            checksum: "d528cfee060e515935ab8333185b206414265f8e623ddf6a6d92100ba7b6e5d7"
         ),
         .binaryTarget(
             name: "UnityUbeejoyManager",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559030/UnityUbeejoyManager.xcframework.zip",
-            checksum: "6450785cec85f0476e33ad1f1a0558e4f4589c4fdf7ce83ef2013ebcfd5b7f14"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/MadfunSDK/3.0.3-dev-1559034/UnityUbeejoyManager.xcframework.zip",
+            checksum: "7662b061617257f6045c14d98fe331e5f86b75a7abb9031b8b614a1803de5489"
         )
     ]
 )
